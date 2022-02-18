@@ -159,3 +159,12 @@ footer {
 }
 @media (max-width: 600px) {footer {flex-direction:column;
 }}
+.images {
+    margin-top: 35px;
+    padding-left:10px;
+    padding-right: 10px;
+    width:2em;
+    height:2em;
+    float:left;
+    background-color:#333;
+}
